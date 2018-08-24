@@ -20,3 +20,21 @@ INFO [08-24|14:43:30.675] Etherbase automatically configured       address=0x615
 INFO [08-24|14:43:30.675] Commit new mining work                   number=1 uncles=0 txs=0 gas=0 fees=0 elapsed=166.061µs
 WARN [08-24|14:43:30.675] Block sealing failed                     err="waiting for transactions"
 INFO [08-24|14:43:32.902] Mapped network port                      proto=tcp extport=38459 intport=38459 interface="UPNP IGDv1-IP1"
+INFO [08-24|14:58:06.071] Setting new local account                address=0x615CBd63F983C00ed1756D5b96E3DDEf9A8e0b20
+INFO [08-24|14:58:06.072] Submitted transaction                    fullhash=0xdc6378f9ceea4509528983cebbe775bff2ba9be75197859a93a1199f27d32d73 recipient=0xcB92819C19Dbee3C4dBFaB54E5db9e9E9ac8D951
+INFO [08-24|14:58:06.072] Commit new mining work                   number=1 uncles=0 txs=0 gas=0 fees=0 elapsed=130.631µs
+WARN [08-24|14:58:06.072] Block sealing failed                     err="waiting for transactions"
+INFO [08-24|14:58:06.073] Commit new mining work                   number=1 uncles=0 txs=1 gas=21000 fees=2.1e-14 elapsed=754.547µs
+INFO [08-24|14:58:06.074] Successfully sealed new block            number=1 hash=10dd40…c71b0a elapsed=1.035ms
+INFO [08-24|14:58:06.075] 🔨 mined potential block                  number=1 hash=10dd40…c71b0a
+INFO [08-24|14:58:06.076] Commit new mining work                   number=2 uncles=0 txs=0 gas=0     fees=0       elapsed=1.338ms
+WARN [08-24|14:58:06.076] Block sealing failed                     err="waiting for transactions"
+INFO [08-24|15:31:19.525] Setting new local account                address=0xcB92819C19Dbee3C4dBFaB54E5db9e9E9ac8D951
+INFO [08-24|15:31:19.526] Submitted contract creation              fullhash=0xec2555ee6bc688b9b58bb453df4a8f3965668b75810f246e36efa568bf6b8d75 contract=0xCE7dEfD09ae914f8aD8ED67a5fD3A844295a5F0B
+INFO [08-24|15:31:19.526] Commit new mining work                   number=2 uncles=0 txs=0 gas=0     fees=0       elapsed=172.003µs
+INFO [08-24|15:31:19.529] Commit new mining work                   number=2 uncles=0 txs=1 gas=206243 fees=2.06243e-13 elapsed=3.378ms
+WARN [08-24|15:31:19.530] Block sealing failed                     err="waiting for transactions"
+INFO [08-24|15:31:19.530] Successfully sealed new block            number=2 hash=f58e5a…49a01a elapsed=2.819ms
+INFO [08-24|15:31:19.531] 🔨 mined potential block                  number=2 hash=f58e5a…49a01a
+INFO [08-24|15:31:19.533] Commit new mining work                   number=3 uncles=0 txs=0 gas=0      fees=0           elapsed=1.674ms
+WARN [08-24|15:31:19.533] Block sealing failed                     err="waiting for transactions"
