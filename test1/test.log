@@ -1,0 +1,22 @@
+INFO [08-24|14:43:26.524] Maximum peer count                       ETH=25 LES=0 total=25
+INFO [08-24|14:43:30.419] Using developer account                  address=0x615CBd63F983C00ed1756D5b96E3DDEf9A8e0b20
+INFO [08-24|14:43:30.420] Starting peer-to-peer node               instance=Geth/v1.8.14-stable-316fc7ec/linux-amd64/go1.10
+INFO [08-24|14:43:30.420] Allocated cache and file handles         database=/home/jiabin/Documents/Github/ethereum/test1/testNet/geth/chaindata cache=768 handles=512
+INFO [08-24|14:43:30.660] Writing custom genesis block 
+INFO [08-24|14:43:30.663] Persisted trie from memory database      nodes=11 size=1.71kB time=393.282µs gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+INFO [08-24|14:43:30.664] Initialised chain configuration          config="{ChainID: 1337 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: 0 Constantinople: <nil> Engine: clique}"
+INFO [08-24|14:43:30.664] Initialising Ethereum protocol           versions="[63 62]" network=1337
+INFO [08-24|14:43:30.665] Loaded most recent local header          number=0 hash=9dfa61…4fed26 td=1
+INFO [08-24|14:43:30.665] Loaded most recent local full block      number=0 hash=9dfa61…4fed26 td=1
+INFO [08-24|14:43:30.665] Loaded most recent local fast block      number=0 hash=9dfa61…4fed26 td=1
+INFO [08-24|14:43:30.666] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [08-24|14:43:30.666] Starting P2P networking 
+INFO [08-24|14:43:30.666] RLPx listener up                         self="enode://9481e4a3bcd4ea01db08343ddb94052273b08062f1b76bd64e90a0eccee183b0d8bc4f9ce7ecd7e426c8269fb3dafb2dced7b34a7688c2082da1e0f5d5846671@[::]:38459?discport=0"
+INFO [08-24|14:43:30.667] started whisper v.6.0 
+INFO [08-24|14:43:30.667] Stored checkpoint snapshot to disk       number=0 hash=9dfa61…4fed26
+INFO [08-24|14:43:30.673] IPC endpoint opened                      url=/home/jiabin/Documents/Github/ethereum/test1/testNet/geth.ipc
+INFO [08-24|14:43:30.675] Transaction pool price threshold updated price=18000000000
+INFO [08-24|14:43:30.675] Etherbase automatically configured       address=0x615CBd63F983C00ed1756D5b96E3DDEf9A8e0b20
+INFO [08-24|14:43:30.675] Commit new mining work                   number=1 uncles=0 txs=0 gas=0 fees=0 elapsed=166.061µs
+WARN [08-24|14:43:30.675] Block sealing failed                     err="waiting for transactions"
+INFO [08-24|14:43:32.902] Mapped network port                      proto=tcp extport=38459 intport=38459 interface="UPNP IGDv1-IP1"
